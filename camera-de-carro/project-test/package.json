@@ -1,0 +1,29 @@
+{
+  "name": "project-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@alexcdot/textract": "^2.5.3",
+    "bull": "^4.16.5",
+    "chrome-lens-ocr": "^4.0.4",
+    "chromedriver": "^134.0.4",
+    "clipboardy": "^4.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "ocr-space-api-wrapper": "^2.3.2",
+    "p-queue": "^8.1.0",
+    "selenium-webdriver": "^4.29.0",
+    "sharp": "^0.33.5",
+    "tesseract.js": "^6.0.0",
+    "uuid": "^11.1.0"
+  }
+}
